@@ -1,0 +1,8 @@
+instalacion
+npm install -g @angular/cli
+
+creacion de un proyecto
+ng new my-app
+
+arranque del servidor
+ng serve
